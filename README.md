@@ -4,6 +4,13 @@
 
 Bapak Belajar Lagi adalah chatbot edukasi berbasis Gemini API yang membantu orang tua memahami kembali pelajaran sekolah agar lebih siap mendampingi anak belajar.
 
+## Project Links
+
+- **Live App:** https://bapakbelajarlagi.streamlit.app/
+- **GitHub Repository:** https://github.com/deayogaswara/bapak-belajar-lagi
+
+---
+
 Aplikasi ini tidak hanya menjawab pertanyaan. Ia menyesuaikan jawaban berdasarkan jenjang anak, mata pelajaran, dan mode penjelasan, serta menggabungkan:
 
 - Gemini API
@@ -199,7 +206,7 @@ bapak-belajar-lagi/
 ### 1. Clone repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/deayogaswara/bapak-belajar-lagi.git
 cd bapak-belajar-lagi
 ```
 
